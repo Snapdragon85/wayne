@@ -1,0 +1,2 @@
+# wayne
+Personal AI assisstance
